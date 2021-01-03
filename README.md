@@ -11,3 +11,11 @@
 
 ![enter image description here](https://ngrx.io/generated/images/guide/store/state-management-lifecycle.png)
 
+# NgRx
+* Action
+* reducer
+* store-devtools
+
+## NgRx Plugin store-devtools
+
+![enter image description here](https://github.com/Edymlima/Angular-NgRx-Contador/blob/main/src/assets/img/tela.png)
