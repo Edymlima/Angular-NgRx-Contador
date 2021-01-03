@@ -1,1 +1,1 @@
-# Edymlima-Angular-NgRx-Contador
+# Angular-NgRx-Contador
